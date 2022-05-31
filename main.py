@@ -6,7 +6,7 @@ import random
 
 client = discord.Client()
 
-sad_words = ["sad", "unhappy", "miserable"]
+sad_words = ["sad", "unhappy", "miserable","sorrowful"]
 starter_encoragements = ["he is fine", "have a good one"]
 
 def get_quote():
