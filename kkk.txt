@@ -6,7 +6,7 @@ if any (word in msg for word in sad_words):
             await message.channel.send(random.choice(starter_encouragements))
 
 
-sad_words = ["sad", "unhappy", "gloomy", "miserable", "depressing"]
+sad_words = ["sad", "unhappy", "gloomy", "miserable", "depressing", "upset"]
 
 starter_encouragements = ["cheer up", "Dont worry you'll Have a great day", "i can feel it too"]
 
