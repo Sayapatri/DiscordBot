@@ -8,3 +8,11 @@ on discord we will need our own bot account to test our codes and changes
 ## Configure the bot 
 to configure the bot we'll need the bot's code and server to run it on.
 ## Run it
+
+### Installation
+Create an application on the Discord Developer Portal
+Clone this repo (git clone (https://github.com/Sayapatri/DiscordBot.git) or download the master branch
+Create a bot for that application, copy the token
+Complete .env.example, then copy the content
+Create a ".env" file and paste the data
+Install the requeriments (Repl.it users only press the "Run" button) and run it
